@@ -1,0 +1,10 @@
+C:\Users\Super\source\repos\CarsDatabase\bin\x64\Release\Resources\Hire.accdb
+C:\Users\Super\source\repos\CarsDatabase\bin\x64\Release\CarsDatabase.exe.config
+C:\Users\Super\source\repos\CarsDatabase\bin\x64\Release\CarsDatabase.exe
+C:\Users\Super\source\repos\CarsDatabase\bin\x64\Release\CarsDatabase.pdb
+C:\Users\Super\source\repos\CarsDatabase\obj\x64\Release\CarsDatabase.frmCars.resources
+C:\Users\Super\source\repos\CarsDatabase\obj\x64\Release\CarsDatabase.Properties.Resources.resources
+C:\Users\Super\source\repos\CarsDatabase\obj\x64\Release\CarsDatabase.csproj.GenerateResource.cache
+C:\Users\Super\source\repos\CarsDatabase\obj\x64\Release\CarsDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Super\source\repos\CarsDatabase\obj\x64\Release\CarsDatabase.exe
+C:\Users\Super\source\repos\CarsDatabase\obj\x64\Release\CarsDatabase.pdb
